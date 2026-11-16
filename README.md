@@ -1,4 +1,4 @@
-# 🚌 Bus Ticket Reservation System (C++)
+# 🚌 Bus Ticket Reservation System (C++ & DSA)
 
 A console-based bus ticket reservation system written in C++. It supports user login, seat booking and cancellation, a waitlist, undo, and admin controls for managing buses. All data is stored in plain text files, so bookings are kept between runs.
 
